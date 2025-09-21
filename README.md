@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ankur Kataria
 
-🚀 **Senior React Full Stack Developer**
+🚀 **Lead Full Stack Developer**
 
-I’m a full-stack software engineer with 8+ years of experience, currently at AT&T. I specialize in end-to-end ownership and have delivered 15+ business applications across domains like manufacturing, IoT, HR, and finance. My solutions have helped automate workflows and reduce manual effort by up to 40%. Improved delivery speed by 25%, reduced LLM compute cost by 30%, and optimized architecture to cut production issues by 50%. I’ve worked across cloud platforms, DevOps pipelines, and AI integrations, and I thrive in fast-paced environments where I can translate business needs into scalable, real-world solutions.
+I’m a Lead full-stack software engineer with 8+ years of experience, currently at AT&T. I specialize in end-to-end ownership and have delivered 15+ business applications across domains like manufacturing, IoT, HR, and finance. My solutions have helped automate workflows and reduce manual effort by up to 40%. Improved delivery speed by 25%, reduced LLM compute cost by 30%, and optimized architecture to cut production issues by 50%. I’ve worked across cloud platforms, DevOps pipelines, and AI integrations, and I thrive in fast-paced environments where I can translate business needs into scalable, real-world solutions.
 
 ---
 
